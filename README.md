@@ -1,101 +1,26 @@
-You're doing great, and it’s completely okay to feel unsure at the start. Let's break down each of the tasks in your checklist and I’ll also give you **simple questions** you can ask your **manager and teammates** so you can confidently complete everything.
 
----
 
-### ✅ **Task 1: Set up a 1:1 with your manager**
+ChatGPT
+You said:
+Uploaded image
+Help me to add linkdin post discription in new joining in indegene as trainee frontend developer do concentrate on the photo I have shared 
+ChatGPT said:
+Here's a LinkedIn post description you can use for your new joining at Indegene as a Trainee Frontend Developer, based on the email in your photo:
 
-**Goal:** Understand your role, goals, and how success is measured.
+📢 Excited to begin my journey with Indegene as a Trainee Frontend Developer!
 
-**What to say/ask your manager in the meeting:**
+Had a wonderful time during the induction session on 23rd July 2025 — full of learning, interaction, and inspiration.
 
-* "Can you please explain my main responsibilities as a Frontend Developer Trainee?"
-* "What are the success metrics or expectations for me in the next few months?"
-* "Can we define some SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound)?"
-* "How will my performance be reviewed?"
+Grateful to be part of a team that is committed to shaping the future of healthcare through innovation and technology.
 
-📌 **Mark 'Yes' once you have the meeting.**
-🕒 Fill the duration of the meeting (e.g., 00:30:00 if it was 30 mins).
+🖐️ Special thanks for the creative handprint activity and the warm welcome by the team!
 
----
+📸 Here’s a glimpse from the session.
+Let’s grow and build together! 🚀
 
-### ✅ **Task 2: Schedule intro calls with team members**
-
-**Goal:** Get to know your teammates.
-
-**What to ask them:**
-
-* "Hi, I’m new to the team and just joined as a frontend trainee. Could you tell me what your role is?"
-* "How do you usually work with frontend developers?"
-* "What tools or technologies do you commonly use?"
-* "Do you have any tips for a new trainee like me?"
-
-📌 Schedule 10–15 minute chats via Teams/Outlook and note down names.
-
----
-
-### ✅ **Task 3: Knowledge transfer from manager or team member**
-
-**Goal:** Learn how things work in your team.
-
-**Ask your manager or senior developer:**
-
-* "Can you show me where the codebase is hosted (GitHub, GitLab)?"
-* "Is there a document that explains the project setup?"
-* "Which tools do we use for frontend development and code reviews?"
-* "How should I run the project locally?"
-
-📌 Try to note everything they say in a notebook or Notion/Google Doc.
-
----
-
-### ✅ **Task 4: Understand current project, client & deliverables**
-
-**Goal:** Learn the project through KT (Knowledge Transfer), orientation sessions, or documents.
-
-**Ask:**
-
-* "Where can I find KT (Knowledge Transfer) documents or recordings?"
-* "Is there a place like a Wiki or Confluence where all project details are written?"
-* "Can I access the Learning Lab modules?"
-
-📌 Mark it done once you’ve reviewed the material and got a basic understanding.
-
----
-
-### ✅ **Task 5: Connect with 3–4 colleagues from other teams**
-
-**Goal:** Learn about collaboration and communication.
-
-**Ask teammates from different departments (backend, QA, devops):**
-
-* "Can you tell me about what you do in your team?"
-* "How do you usually work with the frontend team?"
-* "Any suggestions for smooth communication across teams?"
-
-📌 Note down who you spoke with and your learnings.
-
----
-
-### ✅ **Task 6: Discuss Annual Goals with Manager**
-
-**Goal:** After 90 days, update your goals again.
-
-Since you're new, you don’t have to do this **right now**. You can just mention during your Task 1 discussion:
-
-> “I’ll also be ready to revisit or update my goals after 90 days as mentioned.”
-
----
-
-### ✍️ Extra Notes:
-
-* Try to keep a **document** with names, dates, and short notes from each meeting.
-* If unsure, you can send messages like:
-
-  > "Hi, I’m a new frontend trainee and I have a 45-day checklist. Can we connect for 10–15 minutes for a quick intro?"
-
----
-
-Would you like me to help you write a sample email or Teams message to send to your manager or team?
+#FutureReadyHealthcare
+#FutureReadyCareers
+#Indegene #FrontendDeveloper #NewBeginning #TraineeJourney
 
 
 
